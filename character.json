@@ -41,6 +41,20 @@
             {
                 "user": "{{user1}}",
                 "content": {
+                    "text": "What is your social link?"
+                }
+            },
+            {
+                "user": "{{agent_name}}",
+                "content": {
+                    "text": "{{agent_name}}'s social link is {{social_link}}!"
+                }
+            }
+        ],
+        [
+            {
+                "user": "{{user1}}",
+                "content": {
                     "text": "This is a difficult problem."
                 }
             },
